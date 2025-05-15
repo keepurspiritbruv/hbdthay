@@ -25,42 +25,42 @@ export default function BirthdayLandingPage() {
       {/* Background lily flowers using image */}
       <div className="absolute top-0 left-0 w-40 h-40 opacity-30">
         <img 
-          src="https://imgur.com/GlP1lKJ" 
+          src="https://cdn.jsdelivr.net/gh/keepurspiritbruv/hbdthay@main/public/lilly_15271899.png" 
           alt="Lily flower" 
           className="w-full h-full object-contain"
         />
       </div>
       <div className="absolute bottom-0 right-0 w-40 h-40 opacity-30">
         <img 
-          src="https://imgur.com/GlP1lKJ" 
+          src="https://cdn.jsdelivr.net/gh/keepurspiritbruv/hbdthay@main/public/lilly_15271899.png" 
           alt="Lily flower" 
           className="w-full h-full object-contain"
         />
       </div>
       <div className="absolute top-20 right-10 w-32 h-32 opacity-20 rotate-45">
         <img 
-          src="https://imgur.com/GlP1lKJ" 
+          src="https://cdn.jsdelivr.net/gh/keepurspiritbruv/hbdthay@main/public/lilly_15271899.png" 
           alt="Lily flower" 
           className="w-full h-full object-contain"
         />
       </div>
       <div className="absolute bottom-20 left-10 w-32 h-32 opacity-20 -rotate-12">
         <img 
-          src="https://imgur.com/GlP1lKJ" 
+          src="https://cdn.jsdelivr.net/gh/keepurspiritbruv/hbdthay@main/public/lilly_15271899.png" 
           alt="Lily flower" 
           className="w-full h-full object-contain"
         />
       </div>
       <div className="absolute top-1/2 left-5 transform -translate-y-1/2 w-24 h-24 opacity-20 rotate-90">
         <img 
-          src="https://imgur.com/GlP1lKJ" 
+          src="https://cdn.jsdelivr.net/gh/keepurspiritbruv/hbdthay@main/public/lilly_15271899.png" 
           alt="Lily flower" 
           className="w-full h-full object-contain"
         />
       </div>
       <div className="absolute top-1/2 right-5 transform -translate-y-1/2 w-24 h-24 opacity-20 -rotate-90">
         <img 
-          src="https://imgur.com/GlP1lKJ" 
+          src="https://cdn.jsdelivr.net/gh/keepurspiritbruv/hbdthay@main/public/lilly_15271899.png" 
           alt="Lily flower" 
           className="w-full h-full object-contain"
         />
@@ -104,7 +104,7 @@ export default function BirthdayLandingPage() {
                   {/* This would be replaced with a real photo */}
                   <div className="w-32 h-32 bg-pink-100 rounded-full mb-2 shadow-md overflow-hidden">
                     <img 
-                      src="https://imgur.com/a/z7Kys0k" 
+                      src="https://cdn.jsdelivr.net/gh/keepurspiritbruv/hbdthay@main/public/WhatsApp%20Image%202025-05-15%20at%2023.02.20_7c928c03.jpg" 
                       alt="Thaya's Photo" 
                       className="w-full h-full object-cover"
                     />
